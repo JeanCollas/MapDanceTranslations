@@ -1,4 +1,7 @@
-## FAQ-Dancers
+Spanish translations
+
+## Home
+### FAQ-Dancers
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Dancers-FAQ-Questions | Questions | Questions | 
@@ -25,7 +28,7 @@
 |  | Home-Dancers-FAQ-Add-bellydance | belly dance | belly dance | 
 |  | Home-Dancers-FAQ-Add-tapdance | tap dance, claquettes | tap dance, claquettes | 
 
-## FAQ-Pros
+### FAQ-Pros
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Pros-FAQ-Title | Questions | Questions | 
@@ -45,7 +48,7 @@
 |  | Home-Pros-FAQ-Swings | includes several swing dances | includes several swing dances | 
 |  | Home-Pros-FAQ-Zouks | includes brazilian and carribean | includes brazilian and carribean | 
 
-## News-Pro
+### News-Pro
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Pros-News-Title | MapDance News! | MapDance News! | 
@@ -63,7 +66,7 @@
 |  | Home-Pros-News-Text15 | Festival organizers will get a more advanced description of their event | Festival organizers will get a more advanced description of their event | 
 |  | Home-Pros-News-Text16 | Party organizers will also get a way to personalize their event | Party organizers will also get a way to personalize their event | 
 
-## Register-Event
+### Register-Event
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Pros-RegEvt-Title | How to register a dance event on MapDance? | How to register a dance event on MapDance? | 
@@ -98,7 +101,7 @@
 |  | Home-Pros-RegEvt-Questions | More questions? | More questions? | 
 |  | Home-Pros-RegEvt-ContactUs | Contact us! | Contact us! | 
 
-## Register-Festival
+### Register-Festival
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Help-RegFest-Title | How to register a dance festival on MapDance? | How to register a dance festival on MapDance? | 
@@ -129,7 +132,7 @@
 |  | Help-RegFest-Questions | More questions? | More questions? | 
 |  | Help-RegFest-ContactUs | Contact us! | Contact us! | 
 
-## Register-School
+### Register-School
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Help-RegSchool-Register | Register a dance studio/dance school | Register a dance studio/dance school | 
@@ -144,7 +147,7 @@
 |  | Help-RegSchool-Questions | Any questions? | Any questions? | 
 |  | Help-RegSchool-Contact | Contact us! | Contact us! | 
 
-## Register-School-How
+### Register-School-How
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Help-RegSchool-How-1 | You need to | You need to | 
@@ -161,7 +164,7 @@
 |  | Help-RegSchool-How-5 | Once completed, you can click on the <b>\"Publish\"</b> tab to make it public | Once completed, you can click on the <b>\"Publish\"</b> tab to make it public | 
 |  | Help-RegSchool-How-6 | You can come back at any time to modify your description | You can come back at any time to modify your description | 
 
-## Register-School-Pricing	
+### Register-School-Pricing	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Help-RegSchool-Pricing-PerYear | per year | per year | 
@@ -171,7 +174,7 @@
 |  | Help-RegSchool-Pricing-4 | Details of basic information (Name, address, photos, <br />contact details, website, schedules), <br />dances, teachers<br />and venues description<br /> | Details of basic information (Name, address, photos, <br />contact details, website, schedules), <br />dances, teachers<br />and venues description<br /> | 
 |  | Help-RegSchool-Pricing-5 | We use 100% of your contribution to advertize <b>your</b> structure on social networks | We use 100% of your contribution to advertize <b>your</b> structure on social networks | 
 
-## Register-School-Why
+### Register-School-Why
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Help-RegSchool-Why-1 | To get a <b>personnalized description of your structure</b> | To get a <b>personnalized description of your structure</b> | 
@@ -180,7 +183,7 @@
 |  | Help-RegSchool-Why-3 | Students get <b>direct access to your contact details</b> | Students get <b>direct access to your contact details</b> | 
 |  | Help-RegSchool-Why-4 | Here is an example of what you can get on our website: | Here is an example of what you can get on our website: | 
 
-## WhatIsMapDance-Dancers
+### WhatIsMapDance-Dancers
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Dancers-WIMD-WIMApp | What is MapDance app? | What is MapDance app? | 
@@ -199,7 +202,7 @@
 |  | Home-Dancers-WIMD-OnSite | Find events on the site | Find events on the site | 
 |  | Home-Dancers-WIMD-FreeApp | MapDance is a FREE application to help dancers <span>by simplifying all dance-related search</span> | MapDance is a FREE application to help dancers <span>by simplifying all dance-related search</span> | 
 
-## WhatIsMapDance-Home
+### WhatIsMapDance-Home
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-About-Title | MapDance is the application for dancers to find | MapDance is the application for dancers to find | 
@@ -222,14 +225,14 @@
 |  | Home-About-Part2-Text1 | MapDance is a FREE application to help dancers <span>by simplifying all dance-related search</span> | MapDance is a FREE application to help dancers <span>by simplifying all dance-related search</span> | 
 |  | Home-About-Part2-Text2 | Dances referenced include salsa, bachata, kizomba, swings (lindy hop, west coast etc) and many more | Dances referenced include salsa, bachata, kizomba, swings (lindy hop, west coast etc) and many more | 
 
-## Contact	
+### Contact	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Contact-Title | Contact | Contact | 
 |  | Contact-Text1 | The best way to contact us is to send a message to our Facebook page: | The best way to contact us is to send a message to our Facebook page: | 
 |  | Contact-Text2 | If you don't want to use Facebook, you may use the form below | If you don't want to use Facebook, you may use the form below | 
 
-## Dancers
+### Dancers
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Dancers-Title | MapDance the dance agenda on a map, for all dancers! Salsa, kizomba, bachata, tango, swing and more! | MapDance the dance agenda on a map, for all dancers! Salsa, kizomba, bachata, tango, swing and more! | 
@@ -248,17 +251,12 @@
 |  | Home-Dancers-DLApp | Download the app | Download the app | 
 |  | Home-Dancers-DLApp-Title | Download the app | Download the app | 
 
-## DanceWebsites	
+### DanceWebsites	
 |   | Key | ES | EN |
 |---|---|---|---|
-##     texts.Add("Contact-Title", "Other websites related to dance");
-|   | Key | ES | EN |
-|---|---|---|---|
-##     texts.Add("Contact-Text1", "");
-|   | Key | ES | EN |
-|---|---|---|---|
+|   | Contact-Title | Other websites related to dance | Other websites related to dance |
 
-## GetMapDance
+### GetMapDance
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Download-Title | Download MapDance App - The app for dancers | Download MapDance App - The app for dancers | 
@@ -270,7 +268,7 @@
 |  | Download-DL-iPhone | Get it on the appstore | Get it on the appstore | 
 |  | Download-DL-W10 | Get it on Windows 10 | Get it on Windows 10 | 
 
-## Index
+### Index
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Title | MapDance, your map agenda to find dance events anywhere, Salsa bachata kizomba tango swing ballroom & more! | MapDance, your map agenda to find dance events anywhere, Salsa bachata kizomba tango swing ballroom & more! | 
@@ -290,7 +288,7 @@
 |  | Home-AboutDancers-Title | Description of the app for dancers | Description of the app for dancers | 
 |  | Home-AboutPros-Title | Description of the service for dance professionals | Description of the service for dance professionals | 
 
-## Professionals
+### Professionals
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Home-Pros-Main-MainText | MapDance is the application that gathers all useful information for dancers | MapDance is the application that gathers all useful information for dancers | 
@@ -316,10 +314,9 @@
 |  | Home-Pros-Main-WillBeTranslated | The app is translated in many languages, however this website is only in english. We are working on translating it | The app is translated in many languages, however this website is only in english. We are working on translating it | 
 |  | Home-Pros-Main-Title | Register your dance school/dance studio, your events and festivals on MapDance! | Register your dance school/dance studio, your events and festivals on MapDance! | 
 
+---
 ## Mailing
-|   | Key | ES | EN |
-|---|---|---|---|
-## RegisterMailing
+### RegisterMailing
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | RS-Open-SendMe | Receive by email every week | Receive by email every week | 
@@ -357,7 +354,7 @@
 |  | RS-NoDaySelected | No day selected, please select at least one day | No day selected, please select at least one day | 
 |  | RS-UnknownError | Unknown error... Please contact us! | Unknown error... Please contact us! | 
 
-## EventSearchMail
+### EventSearchMail
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Mailing-SR-ResultsFor | Results for | Results for | 
@@ -374,7 +371,7 @@
 |  | SearchErrors_Unknown | Unknown error, please verify the search form | Unknown error, please verify the search form | 
 |  | SearchResults_FestivalsOf | {0} festivals | {0} festivals | 
 
-## Unsubscribe
+### Unsubscribe
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Mailing-Unsub-Confirm | You have been unregistered from your search {0} in {1} | You have been unregistered from your search {0} in {1} | 
@@ -389,17 +386,16 @@
 |  | Mailing-Unsub-ConfirmNOk | Error, we could not save your answer on our servers | Error, we could not save your answer on our servers | 
 |  | Mailing-Unsub-NetErrorNOk | Network error, please try again later | Network error, please try again later | 
 
+---
 ## Maps
-|   | Key | ES | EN |
-|---|---|---|---|
-## LastEvents
+### LastEvents
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SearchResults_IN_City | in | in | 
 |  | SearchResults_IN_Street | in | in | 
 |  | Search-LastSearchs | Last searchs | Last searchs | 
 
-## _Search
+### _Search
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Search-Events | Events | Events | 
@@ -420,13 +416,13 @@
 |  | Common-Favorites | Favorites | Favorites | 
 |  | Common-CopiedToClip | Copied to clipboard | Copied to clipboard | 
 
-## SearchResultItem
+### SearchResultItem
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SearchResultsItem-LogIn | Log in | Log in | 
 |  | SearchResultsItem-ForMore | for more | for more | 
 
-## SearchResults	
+### SearchResults	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SearchResults-AddYourEvent | Your event is not showing? Post your Facebook event <a href=\"https://facebook.com/groups/mapdance.info\">on our group</a>! | Your event is not showing? Post your Facebook event <a href=\"https://facebook.com/groups/mapdance.info\">on our group</a>! | 
@@ -441,14 +437,14 @@
 |  | SearchResults-AltRes | {0} alternate results  | {0} alternate results  | 
 |  | SearchResults-Within | within {0}km | within {0}km | 
 
-## Index	
+### Index	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Search-IndexTitle | Your dance parties and dance festivals salsa, bachata, kizomba, tango and other anywhere in the world! | Your dance parties and dance festivals salsa, bachata, kizomba, tango and other anywhere in the world! | 
 |  | Search-IndexTitle2 | Find your dance parties and dance festivals salsa, bachata, kizomba, tango etc anywhere in the world! | Find your dance parties and dance festivals salsa, bachata, kizomba, tango etc anywhere in the world! | 
 |  | Search-PageDescription | Find dance events/parties and fill your agenda with MapDance, salsa, kizomba, bachata, lindy hop, tango and more! | Find dance events/parties and fill your agenda with MapDance, salsa, kizomba, bachata, lindy hop, tango and more! | 
 
-## SearchResults
+### SearchResults
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SearchResults_IN | in | in | 
@@ -467,8 +463,9 @@
 |  | SearchResults-Description-Schools | All {0} dance schools/studios in {1}, reliable and up to date  | All {0} dance schools/studios in {1}, reliable and up to date  | 
 |  | SearchResults-Keywords | salsa bachata kizomba swing lindy hop tango ballroom events parties classes workshops festivals | salsa bachata kizomba swing lindy hop tango ballroom events parties classes workshops festivals | 
 
+---
 ## Me	
-## Register
+### Register
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Reg-Title | Create a new account on MapDance | Create a new account on MapDance | 
@@ -494,10 +491,9 @@
 |  | Reg-Female | Female | Female | 
 |  | Reg-Register | Register | Register | 
 
+---
 ## ProArea
-|   | Key | ES | EN |
-|---|---|---|---|
-## _CreateSchool	
+### _CreateSchool	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Pro-NewSchoolForm-SchoolName | Name of your school | Name of your school | 
@@ -524,7 +520,7 @@
 |  | Pro-NewSchoolForm-Facebook | Facebook link | Facebook link | 
 |  | Pro-NewSchoolForm-Facebook-Placeholder | www.facebook.com/myschoolname | www.facebook.com/myschoolname | 
 
-## School-Edit-Basics
+### School-Edit-Basics
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-Basics-ScheduleFormatHint | Please fill with 24h format (ex: \"10:00-13:00 14:00-20:30\") | Please fill with 24h format (ex: \"10:00-13:00 14:00-20:30\") | 
@@ -561,7 +557,7 @@
 |  | SchoolEdit-Basics-Preview | Preview | Preview | 
 |  | SchoolEdit-Basics-UpdateWhenSave | (updated when saved) | (updated when saved) | 
 
-## School-Edit-Dances	
+### School-Edit-Dances	
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-Dances-Title2 | Please fill this section with details specific to your school about dances taught | Please fill this section with details specific to your school about dances taught | 
@@ -578,7 +574,7 @@
 |  | SchoolEdit-Dances-OrderDances | Order of dances | Order of dances | 
 |  | SchoolEdit-Dances-OrderHint | Note that the order below may differ, however the order above is used to display to the dancers | Note that the order below may differ, however the order above is used to display to the dancers | 
 
-## School-Edit-NotPublished
+### School-Edit-NotPublished
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-PublishNP-PublishNow | Publish now | Publish now | 
@@ -586,7 +582,7 @@
 |  | SchoolEdit-PublishNP-Questions | Any questions? | Any questions? | 
 |  | SchoolEdit-PublishNP-Contact | Contact us! | Contact us! | 
 
-## School-Edit-Published
+### School-Edit-Published
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-PublishP-Status | Status | Status | 
@@ -597,7 +593,7 @@
 |  | SchoolEdit-PublishP-Paid | Paid | Paid | 
 |  | SchoolEdit-PublishP-AffiliateBonus | Affiliate bonus | Affiliate bonus | 
 
-## School-Edit-Venue
+### School-Edit-Venue
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-Venue-Title1 | Please fill this section with details about your venue/place/studio | Please fill this section with details about your venue/place/studio | 
@@ -614,10 +610,7 @@
 |  | SchoolEdit-Venue-Saved | Saved | Saved | 
 |  | SchoolEdit-Venue-ErrorNotSaved | Error. Not saved | Error. Not saved | 
 
-## 	
-|   | Key | ES | EN |
-|---|---|---|---|
-## TagLevels
+### TagLevels
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | TagLevels-PerformanceTip | Teaching for shows on stage improvement | Teaching for shows on stage improvement | 
@@ -634,7 +627,7 @@
 |  | TagLevels-Teens | Teens | Teens | 
 |  | TagLevels-Weddings | Weddings | Weddings | 
 
-## School-Create
+### School-Create
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Pro-CreateSchool-Title | Create a new school on MapDance - Basic info | Create a new school on MapDance - Basic info | 
@@ -647,7 +640,7 @@
 |  | Pro-CreateSchool-5 | Contact us for any question | Contact us for any question | 
 |  | Pro-CreateSchool-Create | Create your school | Create your school | 
 
-## School-Edit
+### School-Edit
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | SchoolEdit-Title | Pro Area - Edit school -  | Pro Area - Edit school -  | 
@@ -662,10 +655,8 @@
 |  | SchoolEdit-FollowSteps | and follow the steps to make it public and start attracting new dancers | and follow the steps to make it public and start attracting new dancers | 
 |  | SchoolEdit-DirectLink | Direct link to your school | Direct link to your school | 
 |  | SchoolEdit-NextStep | Next step: | Next step: | 
-## 	
-|   | Key | ES | EN |
-|---|---|---|---|
-## School-Publish
+
+### School-Publish
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | PublishSchool-Offer1-ShortDescr | 1 year on the WebSite & App | 1 year on the WebSite & App | 
@@ -695,13 +686,13 @@
 |  | PublishSchool-TotalAmount | The total amount to be paid is | The total amount to be paid is | 
 |  | PublishSchool-PaymentViaPPal | The payment is processed via PayPal | The payment is processed via PayPal | 
 
-## SchoolListItem
+### SchoolListItem
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Pro-Home-SchoolItem-NotPublished | Not published | Not published | 
 |  | Pro-Home-SchoolItem-Published | Published | Published | 
 
-## Home
+### Home
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Pro-Home-Title | Pro Area - Home | Pro Area - Home | 
@@ -716,10 +707,9 @@
 |  | Pro-Home-Schools-ViewPage | View page | View page | 
 |  | Pro-Home-Schools-LinkToPage | Get a link to my page | Get a link to my page | 
 
+---
 ## Shared	
-|   | Key | ES | EN |
-|---|---|---|---|
-## Address
+### Address
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Pro-AddressForm-Address | Address | Address | 
@@ -733,7 +723,7 @@
 |  | Pro-AddressForm-State | State | State | 
 |  | Pro-AddressForm-AdjustLocation | Once the address set, you can adjust the location by moving the pin on the map | Once the address set, you can adjust the location by moving the pin on the map | 
 
-## Layout
+### Layout
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | Layout-Menu-Home | Home | Home | 
@@ -743,7 +733,7 @@
 |  | Layout-Menu-Search-Title | Search dance events on the map | Search dance events on the map | 
 |  | Layout-Menu-Download-Title | Get MapDance on your mobile | Get MapDance on your mobile | 
 
-## Register-Newsletter
+### Register-Newsletter
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | NL-Title | Register to our Newsletter | Register to our Newsletter | 
@@ -766,7 +756,7 @@
 |  | NL-Next | Next | Next | 
 |  | NL-Validate | Register | Register | 
 
-## ToMapDanceMessage
+### ToMapDanceMessage
 |   | Key | ES | EN |
 |---|---|---|---|
 |  | TMM-Title | Send a message to MapDance | Send a message to MapDance | 
